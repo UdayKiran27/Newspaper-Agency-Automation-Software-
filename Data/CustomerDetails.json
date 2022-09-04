@@ -1,0 +1,57 @@
+[
+   {
+      "Address": [
+         1,
+         1,
+         "1"
+      ],
+      "CustomerID": "000001",
+      "CustomerName": "C1",
+      "PhoneNumber": "7702266163",
+      "Subscriptions": [
+         {
+            "from_date": "4/5/21",
+            "name": "Newspaper2",
+            "to_date": "6/16/21"
+         },
+         {
+            "from_date": "4/5/21",
+            "name": "magazine2",
+            "to_date": "4/5/21"
+         }
+      ]
+   },
+   {
+      "Address": [
+         1,
+         1,
+         "7"
+      ],
+      "CustomerID": "3",
+      "CustomerName": "C3",
+      "PhoneNumber": "785",
+      "Subscriptions": []
+   },
+   {
+      "Address": [
+         2,
+         5,
+         "7"
+      ],
+      "CustomerID": "1",
+      "CustomerName": "C2",
+      "PhoneNumber": "7702276163",
+      "Subscriptions": [
+         {
+            "from_date": "4/5/21",
+            "name": "HindiPaper",
+            "to_date": "5/12/21"
+         },
+         {
+            "from_date": "4/5/21",
+            "name": "magazine1",
+            "to_date": "5/12/21"
+         }
+      ]
+   }
+]
